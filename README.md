@@ -103,14 +103,6 @@ My current focus is building practical DevOps skills around AWS, Terraform, Ansi
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/SriRamCharanKolla/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 📊 Stats and Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=SriRamCharanKolla&show_icons=true&theme=react&hide_border=true" />
