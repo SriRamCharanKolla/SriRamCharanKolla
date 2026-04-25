@@ -2,6 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
+    #   * * * * *
+    # | | | | |
+    # | | | | └── Day of Week (0–7) (Sunday = 0 or 7)
+    # | | | └──── Month (1–12)
+    # | | └────── Day of Month (1–31)
+    # | └──────── Hour (0–23)
+    # └────────── Minute (0–59)
+    # This corn job always run in UTC time means in IST at 5:30 AM this job will be updated
+    # cron: "30 18 * * *" - IST - 12:00 AM = UTC - 18:30
     - cron: "0 0 * * *"
   workflow_dispatch:
 
