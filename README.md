@@ -111,26 +111,17 @@ My current focus is building practical DevOps skills around AWS, Terraform, Ansi
 
 ---
 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+## 📊 Stats and Activity
 
-  <h3>🔥 Streak Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=SriRamCharanKolla&show_icons=true&theme=react&hide_border=true" />
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SriRamCharanKolla&theme=dark" alt="GitHub Streak" /></a>
-  </p>
+<img src="https://streak-stats.demolab.com?user=SriRamCharanKolla&theme=react&hide_border=true" />
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharanKolla&layout=compact&theme=react&hide_border=true" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SriRamCharanKolla's Github Stats" src="https://SriRamCharanKolla-github-readme-stats.vercel.app/api/?username=SriRamCharanKolla&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://SriRamCharanKolla-github-readme-stats.vercel.app/api/top-langs/?username=SriRamCharanKolla&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SriRamCharanKolla&theme=react-dark&hide_border=true" />
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SriRamCharanKolla's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SriRamCharanKolla&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+![Snake animation](https://raw.githubusercontent.com/SriRamCharanKolla/SriRamCharanKolla/output/github-contribution-grid-snake.svg)
 
 ---
 
