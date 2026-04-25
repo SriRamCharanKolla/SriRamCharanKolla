@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Sri+Ram+Charan" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=500&lines=Hi%2C+I'm+Sri+Ram+Charan;DevOps+Engineer;AWS+%7C+Terraform+%7C+Ansible" />
+</p>
 <h3 align="center">DevOps Engineer focused on AWS, Linux, automation, containers, and reliable deployments</h3>
 
 <p align="center">
